@@ -1,0 +1,17 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Roboty/Main.cs">
+    <Files>
+      <File FileName="Roboty/Main.cs" Line="125" Column="1" />
+      <File FileName="Roboty/Plansza.cs" Line="1" Column="1" />
+      <File FileName="Roboty/Gracz.cs" Line="1" Column="1" />
+      <File FileName="Roboty/Jednostka.cs" Line="1" Column="1" />
+      <File FileName="Roboty/Robot.cs" Line="1" Column="1" />
+      <File FileName="Roboty/AssemblyInfo.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
